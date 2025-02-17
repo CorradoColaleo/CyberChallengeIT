@@ -1,0 +1,7467 @@
+7466
+swap e W
+del
+rot 58
+add 2
+rot 23
+add M
+swap D l
+rot 34
+del
+rot 35
+rot 42
+rot 55
+add 0
+del
+swap G J
+add E
+del
+rot 23
+rot 13
+rot 18
+del
+add j
+add R
+del
+add A
+add f
+add r
+del
+del
+del
+add Y
+add q
+rot 3
+rot 29
+del
+rot 14
+add A
+add L
+swap a B
+swap n w
+rot 6
+del
+add J
+add n
+rot 14
+swap m L
+add y
+swap A r
+del
+add Z
+del
+add Q
+rot 13
+del
+add g
+swap C e
+swap z X
+rot 55
+swap s 4
+add D
+rot 31
+add 7
+del
+add v
+swap f l
+add h
+swap Y 1
+del
+rot 34
+swap 2 d
+del
+rot 50
+rot 13
+add g
+rot 59
+del
+swap C N
+add B
+swap 6 G
+add b
+del
+del
+add h
+rot 31
+add 8
+add k
+rot 55
+add a
+del
+add 6
+rot 28
+add z
+swap N i
+add H
+rot 38
+del
+swap a M
+rot 37
+rot 33
+del
+swap 6 d
+swap o x
+add c
+del
+del
+rot 48
+add J
+add c
+del
+add q
+del
+del
+add A
+rot 59
+del
+rot 31
+del
+swap 7 5
+swap H S
+rot 6
+del
+swap N m
+del
+rot 24
+add Y
+del
+swap 4 R
+add i
+swap S O
+add l
+rot 8
+del
+rot 14
+swap N t
+rot 55
+add S
+add 9
+add S
+swap o R
+add E
+rot 51
+add 3
+add b
+rot 18
+del
+rot 30
+rot 41
+add N
+add q
+add q
+swap 2 C
+rot 41
+add D
+del
+swap f o
+del
+rot 18
+add i
+swap W w
+rot 11
+add 2
+swap 8 J
+add D
+swap Z b
+swap 9 5
+del
+add H
+add K
+add F
+add P
+rot 11
+swap r d
+swap i o
+add 2
+del
+swap p w
+rot 43
+add H
+rot 39
+add 6
+rot 41
+add P
+add w
+swap F l
+rot 24
+add G
+add L
+add H
+swap V P
+add S
+swap d 4
+rot 2
+swap d D
+swap 0 b
+add T
+swap 2 H
+del
+del
+add R
+add 5
+del
+add d
+swap z t
+swap n f
+add 9
+swap q 4
+del
+add l
+del
+rot 22
+swap t a
+add d
+del
+add a
+rot 15
+add v
+swap 2 2
+rot 21
+add a
+add h
+add 4
+del
+del
+add M
+add s
+del
+rot 36
+add k
+rot 30
+rot 20
+rot 19
+add w
+add d
+add U
+add f
+add n
+add P
+add y
+rot 12
+del
+del
+rot 24
+add l
+del
+del
+add U
+del
+del
+add P
+rot 37
+rot 1
+swap y B
+swap d c
+swap m 6
+del
+add 3
+rot 54
+add I
+add O
+rot 13
+add S
+del
+swap M p
+add n
+add z
+rot 44
+del
+add B
+swap k P
+rot 58
+del
+rot 14
+rot 10
+del
+swap c h
+add i
+del
+del
+rot 40
+del
+del
+add M
+add g
+add W
+swap V V
+add 7
+add X
+add H
+swap q G
+rot 36
+add M
+rot 29
+add Y
+add G
+add o
+rot 19
+del
+add H
+rot 52
+del
+rot 29
+add 9
+rot 34
+swap c k
+add 8
+del
+swap c G
+rot 60
+add Z
+swap r J
+swap J P
+swap C E
+del
+add U
+add k
+add Q
+add i
+add o
+add e
+swap m e
+add g
+add o
+del
+rot 26
+swap 3 Z
+rot 20
+rot 13
+add w
+del
+add W
+add F
+rot 52
+del
+rot 38
+swap I 8
+add d
+add x
+add A
+add s
+add l
+rot 47
+add 2
+swap Y K
+swap z r
+del
+add 1
+swap O Q
+del
+del
+add G
+del
+add T
+add E
+del
+add e
+add P
+del
+rot 18
+rot 39
+rot 7
+swap P Z
+del
+add f
+del
+del
+rot 12
+add g
+del
+add P
+swap v 5
+add j
+swap D Y
+del
+rot 27
+rot 28
+rot 41
+del
+add T
+add P
+add y
+add 7
+add 3
+add g
+add L
+del
+add e
+swap d o
+rot 26
+add H
+add z
+add 5
+rot 1
+add 8
+del
+rot 9
+swap j N
+del
+add G
+rot 13
+add d
+add T
+rot 20
+add E
+rot 1
+rot 51
+add Z
+add T
+add U
+add W
+del
+add 6
+swap l W
+add F
+del
+add L
+swap X T
+swap u W
+swap Z Z
+swap Z b
+add J
+add J
+add H
+del
+rot 46
+add n
+rot 49
+rot 38
+add i
+add o
+del
+add 5
+swap W B
+rot 44
+add I
+add b
+swap f H
+del
+add 1
+del
+rot 46
+swap X I
+swap A u
+swap j 3
+add a
+swap f b
+del
+rot 30
+rot 8
+swap 4 Z
+del
+add Q
+add f
+add v
+add 1
+del
+rot 56
+del
+rot 17
+swap T v
+swap Z S
+add f
+del
+del
+swap K P
+add c
+add m
+del
+swap U r
+add Y
+add o
+add n
+add a
+swap j u
+del
+add H
+del
+add 2
+add d
+del
+del
+rot 60
+del
+add 2
+swap b m
+add c
+add 2
+add l
+del
+del
+del
+swap j 2
+del
+del
+add h
+add l
+add W
+del
+add R
+add W
+del
+rot 43
+add p
+rot 52
+add p
+add B
+add b
+add N
+add N
+add G
+add b
+add h
+swap P A
+swap 4 r
+del
+add X
+rot 52
+rot 61
+add T
+del
+swap 0 S
+swap s c
+add Y
+rot 34
+swap y c
+add A
+swap W s
+swap k U
+rot 57
+rot 3
+add y
+swap M 9
+add h
+add c
+rot 38
+swap p 7
+del
+rot 10
+rot 35
+del
+swap u Q
+del
+swap Q B
+add q
+add p
+del
+swap m g
+swap R y
+swap s m
+del
+add v
+add W
+add P
+add b
+del
+rot 30
+add D
+add X
+swap L Y
+del
+add s
+del
+add T
+swap u 2
+add t
+add c
+swap V 0
+del
+del
+rot 58
+del
+del
+swap N T
+swap K z
+add c
+add o
+add v
+rot 8
+add 3
+add H
+rot 33
+add T
+rot 21
+del
+add Z
+add 3
+add 7
+rot 41
+swap t n
+rot 21
+rot 45
+add x
+rot 60
+del
+rot 16
+del
+add x
+rot 20
+add o
+del
+swap 2 O
+add A
+add e
+add o
+rot 56
+add V
+swap Y d
+add G
+del
+rot 38
+del
+del
+rot 10
+rot 17
+del
+del
+del
+swap o L
+swap 1 t
+del
+swap H P
+swap O h
+add q
+swap P R
+add u
+swap W h
+del
+del
+rot 25
+add M
+add q
+add y
+add d
+rot 14
+add w
+add K
+add j
+rot 47
+add d
+add y
+add 0
+add 9
+del
+add l
+del
+rot 42
+add S
+add 5
+del
+add E
+add v
+swap e G
+add J
+rot 1
+rot 45
+add q
+swap J D
+del
+swap r v
+add z
+del
+del
+add u
+add W
+add 3
+rot 30
+add 9
+add s
+rot 39
+add L
+add m
+add Z
+add w
+swap 3 A
+swap b R
+add K
+rot 15
+del
+del
+rot 15
+swap g e
+add X
+del
+add s
+add t
+del
+add 7
+add q
+add o
+rot 55
+add F
+del
+swap Q I
+del
+rot 50
+swap c s
+add o
+del
+del
+add w
+del
+del
+swap m 4
+rot 52
+rot 3
+add S
+rot 48
+add b
+del
+del
+add t
+add x
+add 3
+del
+swap Y n
+add H
+swap Z f
+add D
+add P
+del
+add L
+swap Y t
+rot 12
+swap C p
+add W
+swap u k
+add O
+add H
+add h
+add Y
+rot 14
+add Z
+add Y
+add w
+rot 40
+add q
+swap W C
+rot 33
+add o
+del
+del
+swap y D
+add X
+add f
+rot 49
+del
+add m
+add x
+add c
+del
+rot 28
+del
+swap r s
+swap z d
+add L
+add 5
+swap E d
+add S
+add S
+add 0
+swap q t
+del
+swap c z
+rot 54
+add I
+add J
+add z
+add b
+del
+add b
+del
+swap 5 r
+add g
+del
+add 0
+add 7
+swap I H
+add P
+add W
+del
+del
+add f
+add Z
+del
+rot 33
+rot 50
+add f
+add S
+add b
+rot 8
+add u
+add G
+swap E z
+add X
+del
+add 4
+swap D s
+swap 1 C
+add 4
+rot 35
+add V
+del
+add j
+add t
+swap F R
+del
+add y
+add 8
+swap 9 J
+swap P x
+rot 45
+add 3
+del
+del
+rot 6
+rot 53
+swap H C
+add L
+rot 47
+add 0
+del
+del
+rot 43
+swap 0 O
+rot 4
+swap P Z
+rot 20
+swap R u
+add 0
+add d
+del
+swap t b
+swap X F
+rot 17
+add b
+rot 59
+add Y
+del
+add E
+add U
+del
+rot 9
+swap H 4
+swap a X
+add v
+del
+swap 9 Y
+rot 10
+add B
+add y
+add U
+rot 30
+rot 55
+add d
+rot 32
+rot 19
+rot 48
+swap y 1
+add J
+add 1
+rot 57
+del
+del
+del
+add R
+del
+rot 55
+del
+rot 29
+add t
+del
+rot 56
+add K
+swap 3 b
+rot 56
+add S
+add X
+add G
+add o
+rot 7
+add s
+add p
+add b
+rot 32
+del
+add c
+add f
+swap m e
+swap 4 v
+swap 4 6
+add h
+rot 7
+add M
+swap H 9
+add M
+add E
+add A
+del
+rot 53
+add t
+swap 8 0
+rot 23
+add J
+swap v 9
+add n
+add u
+rot 43
+add G
+add y
+add D
+add A
+add B
+swap k S
+swap r H
+add g
+add U
+del
+swap b i
+del
+rot 3
+swap 6 b
+del
+swap R m
+swap J D
+add l
+add i
+swap H b
+add C
+swap N J
+add t
+add K
+rot 45
+swap i B
+add R
+del
+add M
+swap r N
+del
+rot 39
+swap R p
+rot 38
+add f
+add O
+add 8
+add G
+del
+del
+del
+add V
+rot 25
+add E
+del
+swap 7 Y
+add R
+add u
+del
+swap D e
+add r
+add 9
+add K
+del
+rot 3
+add M
+add 9
+rot 53
+swap N b
+add S
+swap 1 t
+rot 59
+rot 43
+del
+add z
+add W
+del
+rot 55
+del
+del
+del
+swap P E
+add Y
+del
+swap k P
+add B
+swap t n
+del
+add Y
+swap X d
+rot 36
+add w
+del
+swap m O
+add 7
+del
+swap X 6
+add p
+add e
+del
+del
+add j
+del
+add I
+add M
+del
+rot 52
+add H
+rot 55
+del
+add w
+add K
+del
+rot 7
+swap 4 C
+del
+rot 59
+add 5
+swap s A
+add 8
+add 2
+del
+add S
+add n
+add t
+add 2
+rot 3
+swap c K
+add J
+add 2
+del
+add 0
+del
+add x
+swap v L
+del
+del
+add x
+add y
+add 3
+add k
+add x
+add t
+add 1
+swap a t
+add h
+add i
+del
+add Z
+rot 58
+add H
+rot 61
+del
+rot 34
+rot 40
+swap Q Z
+add o
+del
+del
+rot 15
+add 5
+swap q D
+del
+swap q 8
+del
+del
+add 3
+add K
+add o
+add i
+add G
+del
+swap R S
+del
+add i
+del
+del
+swap 2 E
+add a
+add R
+del
+swap r S
+add V
+del
+rot 59
+del
+del
+swap S 5
+add P
+del
+swap U R
+del
+del
+add b
+swap 4 p
+add V
+del
+swap e V
+rot 7
+add n
+rot 57
+add X
+add b
+swap Q E
+rot 49
+rot 44
+swap t b
+rot 60
+rot 6
+rot 39
+add h
+swap t n
+del
+del
+add s
+add A
+rot 50
+add G
+del
+del
+swap O M
+swap t J
+rot 39
+add 6
+swap F E
+add 7
+swap l x
+del
+del
+swap 0 E
+add v
+swap R F
+swap c 7
+swap m S
+add k
+add s
+swap Z C
+rot 36
+add Z
+add d
+add 6
+del
+swap q B
+del
+rot 57
+add s
+add y
+add C
+rot 40
+swap J 0
+del
+swap x z
+del
+rot 52
+add 2
+swap e T
+add n
+del
+add v
+add y
+rot 15
+add W
+add 4
+add i
+del
+swap W 2
+swap 6 O
+rot 3
+rot 19
+del
+del
+add g
+add 0
+swap G g
+swap F B
+del
+del
+rot 31
+del
+add f
+add J
+add P
+add v
+del
+rot 29
+swap G F
+rot 1
+del
+add 2
+add x
+add 5
+add t
+add 9
+rot 29
+rot 3
+add v
+add b
+rot 16
+swap k U
+add M
+add 5
+del
+swap 5 I
+rot 28
+add A
+del
+add g
+rot 1
+add u
+add P
+del
+del
+rot 4
+del
+swap e n
+add K
+add z
+del
+add D
+add f
+rot 30
+add i
+add R
+add x
+add z
+add c
+rot 46
+del
+add C
+add 5
+rot 5
+rot 59
+rot 31
+rot 56
+del
+add X
+add U
+swap r B
+del
+del
+add n
+add b
+swap e A
+swap I I
+add D
+swap 7 4
+rot 22
+add m
+rot 35
+swap D N
+rot 22
+swap 5 y
+del
+swap U Z
+del
+rot 21
+swap f 2
+swap k s
+rot 17
+del
+add g
+add 5
+del
+del
+del
+add 9
+swap I C
+rot 11
+swap 4 n
+rot 33
+add O
+del
+del
+add q
+del
+swap 9 n
+add I
+add G
+del
+rot 18
+add A
+add L
+add 2
+rot 6
+add n
+add S
+del
+del
+del
+add T
+add T
+add h
+add s
+rot 39
+rot 30
+del
+del
+add w
+swap Q K
+del
+add b
+del
+add 0
+swap s K
+del
+swap 9 s
+add u
+add 6
+rot 57
+del
+swap 8 H
+add m
+add Q
+add w
+del
+del
+rot 19
+add u
+del
+swap 7 W
+rot 9
+add B
+swap z u
+add Y
+add V
+rot 52
+swap H l
+add 9
+add 3
+add D
+add S
+add B
+del
+add j
+add B
+del
+rot 47
+rot 34
+add r
+del
+add r
+add 8
+rot 7
+add b
+add f
+swap Y i
+del
+del
+add i
+del
+add F
+del
+del
+swap 2 w
+rot 17
+swap y d
+swap j 3
+swap s m
+add t
+add 7
+swap 7 C
+rot 27
+rot 18
+add n
+add w
+rot 54
+add 5
+swap s L
+add a
+add d
+swap v o
+del
+add F
+add s
+del
+del
+del
+del
+del
+add 2
+swap Q N
+add 7
+swap t R
+add K
+swap Y i
+del
+del
+add 7
+rot 58
+add s
+del
+swap u m
+add m
+add c
+add h
+add u
+add n
+swap 6 E
+add 3
+add a
+rot 5
+del
+add b
+add p
+add Q
+add 2
+del
+rot 47
+rot 32
+del
+add 0
+del
+add B
+add F
+rot 44
+add D
+add D
+swap R F
+add n
+rot 2
+add X
+rot 34
+rot 19
+del
+add 6
+add Z
+del
+swap 6 G
+add K
+swap J z
+del
+del
+rot 51
+rot 16
+swap g J
+del
+rot 12
+rot 54
+del
+del
+add 7
+add f
+del
+del
+swap K Z
+add p
+add A
+del
+swap c R
+add L
+add e
+add S
+add o
+rot 57
+add j
+add y
+add b
+add g
+add v
+add Y
+add S
+add C
+swap P X
+add 3
+del
+del
+del
+add U
+rot 52
+rot 26
+add Q
+swap l f
+del
+swap c o
+add 8
+rot 52
+del
+add l
+add N
+add e
+del
+swap d n
+rot 46
+add O
+swap Z i
+add v
+swap m z
+add m
+add 3
+swap Q M
+add A
+add 7
+swap s a
+add H
+add Z
+del
+add g
+add W
+rot 23
+swap o V
+add W
+del
+swap w V
+swap 5 I
+rot 27
+swap u u
+add 6
+swap d z
+del
+add L
+swap H t
+rot 13
+add Y
+swap n 7
+del
+add z
+rot 4
+add 7
+add w
+rot 51
+del
+rot 18
+swap k r
+del
+rot 36
+add I
+swap k B
+add T
+add h
+add i
+add I
+add O
+swap 2 g
+del
+add 2
+del
+add 5
+add P
+del
+rot 59
+swap h w
+add w
+swap 9 A
+del
+rot 56
+swap L N
+rot 4
+add 0
+add h
+rot 6
+del
+swap z 9
+rot 29
+add R
+swap s J
+swap f o
+swap 2 1
+del
+del
+del
+del
+del
+add K
+add N
+add g
+del
+swap k a
+swap Y e
+add U
+add m
+rot 1
+swap v w
+add q
+swap 1 j
+del
+add j
+rot 46
+rot 43
+add x
+rot 21
+swap v U
+del
+swap k M
+rot 31
+swap i V
+add r
+swap J i
+del
+add h
+add N
+del
+add a
+add X
+add E
+swap n D
+add 0
+del
+add 9
+add b
+add G
+rot 7
+del
+add e
+del
+rot 57
+add e
+add I
+rot 50
+rot 16
+add O
+add I
+rot 16
+add 5
+swap u 0
+add f
+swap p 6
+del
+rot 42
+swap F I
+add u
+del
+del
+add n
+del
+rot 11
+del
+add o
+swap f E
+rot 4
+swap i I
+swap E M
+add Y
+del
+add e
+rot 18
+rot 36
+rot 52
+rot 49
+del
+del
+add 8
+del
+swap 2 V
+swap O B
+add b
+add 3
+swap D o
+add L
+swap d Q
+rot 40
+add X
+del
+swap k f
+add h
+add L
+add x
+add 9
+add 0
+rot 52
+del
+swap x W
+add N
+swap O H
+add D
+swap d 6
+add A
+swap I t
+rot 5
+swap 9 C
+add 7
+add Q
+swap U M
+swap f M
+rot 34
+add s
+rot 42
+add 0
+rot 16
+rot 1
+del
+del
+add d
+add s
+add g
+add 8
+swap C o
+del
+add p
+add g
+rot 20
+del
+add v
+del
+add H
+swap U i
+add N
+swap o F
+del
+del
+add Y
+rot 52
+swap 9 8
+rot 34
+rot 3
+add j
+rot 12
+add X
+rot 20
+add X
+swap V 9
+rot 1
+add k
+rot 15
+rot 47
+swap A I
+add T
+swap J m
+add a
+add B
+rot 3
+add P
+rot 35
+add P
+rot 8
+swap q e
+add 9
+swap j w
+del
+add G
+del
+rot 20
+rot 20
+del
+add Z
+del
+add G
+swap Q j
+swap O V
+swap a 9
+del
+add J
+swap S 6
+swap 4 J
+add Z
+del
+swap d O
+swap u r
+del
+add P
+add K
+del
+add E
+add 8
+rot 2
+add L
+add m
+add M
+add V
+del
+add Y
+swap 0 r
+add V
+add d
+del
+rot 6
+add K
+del
+swap q O
+add c
+swap F r
+add D
+swap 1 9
+add T
+rot 26
+add Y
+rot 43
+add U
+add P
+add N
+add w
+add w
+swap E S
+swap 1 t
+add d
+del
+del
+swap s e
+add R
+add D
+rot 39
+add z
+swap d h
+del
+swap V t
+del
+add C
+swap s C
+rot 22
+add 7
+del
+rot 47
+del
+del
+rot 31
+rot 22
+del
+add c
+del
+swap z g
+del
+rot 46
+add B
+del
+rot 19
+del
+add O
+del
+rot 44
+add o
+swap a S
+rot 28
+rot 30
+del
+rot 43
+add R
+del
+rot 28
+del
+rot 12
+rot 57
+add f
+add t
+del
+add S
+del
+rot 37
+add a
+rot 10
+swap F o
+rot 24
+rot 47
+add 1
+del
+rot 58
+add W
+swap G d
+del
+rot 25
+del
+add C
+rot 40
+swap M U
+del
+del
+del
+rot 45
+add r
+add q
+add k
+add 7
+swap W n
+add L
+add M
+add A
+del
+swap p Y
+add h
+del
+add S
+rot 33
+del
+add a
+rot 58
+del
+add 5
+add P
+del
+add X
+swap k T
+rot 33
+del
+rot 60
+del
+del
+del
+add c
+add r
+swap n f
+add S
+rot 34
+add L
+del
+rot 27
+swap q Q
+add A
+del
+add Z
+add n
+rot 4
+swap Y Z
+rot 3
+del
+add w
+swap 0 J
+rot 45
+add t
+add o
+rot 30
+add u
+rot 52
+del
+rot 54
+add F
+rot 40
+swap G X
+del
+add A
+rot 38
+rot 10
+rot 56
+add R
+swap m j
+swap 1 I
+del
+swap b q
+add R
+add W
+add C
+swap N v
+swap f 8
+del
+swap C G
+add 5
+del
+swap Q x
+rot 29
+del
+del
+add k
+add U
+swap V 9
+add H
+add S
+add W
+add 5
+swap i r
+del
+add a
+del
+swap J 1
+rot 24
+add A
+add B
+add v
+del
+add N
+del
+add S
+add D
+del
+rot 57
+add N
+swap X d
+del
+add f
+add k
+add L
+swap k F
+swap a K
+rot 60
+add i
+del
+rot 8
+rot 60
+rot 10
+del
+del
+add r
+add H
+swap 5 a
+del
+del
+swap R F
+add k
+del
+add V
+add 3
+add H
+rot 17
+swap N w
+add 2
+add K
+rot 13
+swap 3 x
+add y
+del
+swap o u
+add d
+add m
+add p
+del
+add n
+add c
+swap t I
+add v
+del
+rot 37
+swap t r
+swap x U
+del
+rot 46
+add k
+add o
+swap 5 O
+swap i j
+add T
+add 6
+add B
+add o
+swap 2 J
+rot 36
+swap O 6
+add v
+rot 1
+add i
+add F
+del
+rot 6
+add x
+add Q
+swap 9 A
+add p
+rot 53
+add O
+add D
+swap Q d
+swap L H
+rot 42
+rot 61
+del
+add W
+del
+del
+swap t W
+swap f B
+add p
+rot 46
+swap 4 E
+add H
+del
+swap L E
+del
+swap 0 0
+del
+add z
+add S
+add W
+add i
+add p
+add l
+swap o f
+add 7
+add 9
+rot 39
+add n
+swap j N
+del
+add Z
+swap v z
+add 7
+rot 29
+del
+rot 61
+swap p T
+add 9
+add f
+add Z
+add r
+rot 32
+swap R m
+add O
+add b
+add U
+add 2
+del
+del
+del
+add I
+swap o r
+rot 3
+add D
+rot 41
+add p
+add C
+add O
+del
+del
+rot 34
+del
+del
+add Z
+rot 57
+rot 19
+del
+swap H o
+swap j U
+add J
+rot 33
+del
+del
+add K
+rot 49
+del
+add V
+add L
+rot 3
+add s
+add F
+del
+add J
+rot 23
+rot 41
+del
+swap n n
+swap N r
+del
+add i
+add m
+swap Y F
+add 4
+add 8
+add h
+add u
+del
+add D
+add U
+add j
+rot 57
+add m
+add a
+add k
+del
+del
+add G
+del
+add F
+rot 17
+del
+swap e w
+rot 14
+rot 10
+add u
+add 6
+swap R j
+del
+add s
+add n
+del
+swap 2 D
+swap x u
+add T
+del
+swap h u
+del
+add S
+rot 33
+add B
+add K
+add S
+del
+add C
+del
+add 9
+add K
+add I
+add m
+rot 13
+add q
+rot 9
+add 8
+rot 59
+add A
+add P
+rot 55
+add t
+add Z
+add x
+rot 34
+swap x 0
+add k
+add L
+rot 48
+del
+del
+add w
+add F
+add U
+swap Y b
+swap i h
+rot 22
+rot 27
+del
+del
+del
+rot 47
+rot 37
+rot 11
+swap P z
+swap T C
+swap u 1
+add V
+add Z
+rot 17
+swap y q
+rot 61
+add p
+swap Y M
+swap N S
+add z
+add q
+swap E h
+add 3
+rot 25
+swap M V
+swap i d
+add d
+add Z
+rot 43
+swap Q w
+del
+add P
+add i
+add Q
+del
+rot 54
+add t
+del
+add R
+add G
+add g
+swap x B
+del
+add h
+del
+rot 25
+del
+rot 32
+del
+add f
+add 0
+del
+add 0
+add 7
+add Q
+add l
+swap A i
+swap P h
+add Q
+add w
+rot 43
+rot 52
+add 2
+add o
+add H
+del
+add p
+rot 8
+del
+del
+rot 18
+rot 47
+rot 61
+del
+rot 40
+swap O d
+add c
+del
+add B
+rot 57
+add F
+add N
+swap X a
+del
+swap c 9
+add i
+add u
+swap A a
+del
+swap M l
+rot 39
+del
+add X
+swap V g
+add s
+rot 18
+swap A 8
+add K
+add n
+swap O T
+add j
+del
+swap m d
+add v
+swap K B
+swap d e
+add 8
+swap D o
+swap P G
+rot 61
+add H
+rot 36
+swap Y 7
+add E
+add Y
+add m
+add 5
+add v
+rot 7
+add I
+rot 16
+del
+del
+rot 52
+del
+del
+add c
+swap e p
+del
+add 4
+rot 44
+rot 1
+add w
+del
+add o
+add H
+rot 4
+add m
+add D
+add 5
+rot 30
+add g
+add I
+add x
+swap Y 4
+add K
+del
+swap V s
+del
+rot 5
+add u
+rot 35
+add x
+add H
+swap C 1
+swap b S
+add e
+rot 45
+add J
+add E
+del
+add 7
+add 4
+add B
+add y
+rot 37
+rot 52
+add Y
+rot 5
+rot 38
+rot 3
+add p
+add 4
+rot 19
+del
+rot 33
+swap u m
+add J
+swap c L
+rot 44
+add B
+add i
+swap u 6
+swap Z 8
+add Y
+add i
+del
+swap k 2
+add m
+del
+add S
+del
+rot 5
+swap 2 J
+add c
+add T
+add X
+rot 10
+del
+swap 1 o
+add S
+swap i L
+swap E O
+del
+del
+add m
+rot 22
+swap d p
+swap g k
+add t
+add 6
+del
+add R
+add U
+swap u g
+swap 1 H
+add 4
+add n
+add V
+swap Z z
+add r
+swap C 4
+add 0
+add S
+add l
+rot 27
+add X
+swap g e
+swap C A
+rot 17
+add P
+rot 29
+rot 36
+rot 53
+add Y
+add x
+add K
+rot 4
+swap Z A
+add Y
+swap W t
+add p
+swap u C
+del
+add v
+del
+swap I f
+add 9
+del
+add r
+add p
+add y
+add S
+del
+add 2
+del
+rot 53
+swap r u
+add 7
+swap g n
+del
+rot 7
+rot 3
+rot 47
+rot 56
+add T
+del
+add b
+del
+rot 16
+add N
+add u
+rot 50
+swap Q 3
+del
+rot 51
+del
+del
+del
+add p
+del
+rot 50
+add 4
+rot 50
+swap e X
+add r
+del
+del
+rot 2
+rot 10
+rot 42
+del
+del
+rot 21
+add 7
+rot 37
+add d
+del
+add G
+add b
+rot 48
+rot 41
+add C
+del
+rot 11
+del
+add 3
+add i
+swap W M
+add f
+add M
+add P
+del
+del
+del
+add l
+rot 32
+del
+swap v g
+add 4
+swap f V
+rot 58
+rot 56
+add 4
+rot 17
+rot 12
+del
+rot 32
+swap S h
+add 5
+add 9
+del
+rot 8
+swap u k
+del
+rot 19
+add 4
+add P
+add O
+add 9
+rot 5
+swap 9 H
+add 9
+del
+del
+swap P P
+add o
+rot 49
+swap U Q
+rot 15
+swap R j
+swap l 3
+add H
+rot 48
+add e
+rot 38
+add j
+rot 12
+add r
+rot 47
+add 9
+swap p v
+add o
+add N
+del
+rot 23
+add u
+add J
+add H
+rot 55
+add 3
+swap e i
+add u
+swap B M
+add n
+del
+del
+rot 39
+rot 28
+add R
+add e
+add s
+del
+del
+rot 10
+del
+swap 5 m
+swap j r
+rot 3
+swap n A
+swap 1 W
+del
+swap w D
+rot 60
+swap l H
+del
+add Q
+rot 19
+rot 32
+rot 15
+add t
+rot 60
+add K
+del
+add L
+swap 7 p
+add i
+swap 5 i
+rot 36
+add b
+swap L 1
+del
+del
+swap 6 P
+swap q V
+swap O Q
+del
+rot 40
+swap S E
+del
+add k
+rot 36
+swap t 2
+del
+del
+del
+add v
+add d
+rot 54
+del
+swap y 9
+add Q
+del
+rot 49
+add c
+add 2
+del
+del
+add 8
+del
+add H
+swap F O
+del
+del
+swap z I
+add w
+del
+del
+add M
+add R
+del
+rot 42
+del
+rot 12
+swap T Y
+swap E K
+add R
+del
+del
+rot 29
+del
+del
+swap z D
+add 3
+swap y k
+rot 53
+del
+swap I Q
+add B
+del
+del
+add G
+add M
+add V
+add J
+add J
+del
+add 2
+rot 3
+rot 59
+add i
+del
+add 2
+del
+del
+rot 17
+rot 34
+swap S 7
+rot 2
+add V
+add l
+swap a O
+add T
+add e
+del
+add g
+add J
+add j
+swap n t
+add U
+rot 36
+del
+add d
+del
+del
+rot 49
+swap h L
+add B
+rot 11
+del
+add G
+add l
+add P
+swap 2 D
+del
+add F
+del
+rot 34
+swap v x
+add g
+add g
+swap Q 5
+add R
+add O
+add H
+rot 54
+swap v 2
+del
+del
+add H
+add s
+swap r o
+add N
+add L
+add e
+rot 24
+swap 6 y
+swap P s
+add Q
+add E
+del
+rot 51
+add 5
+del
+add I
+del
+rot 46
+swap 8 R
+swap H m
+del
+del
+add 9
+del
+add T
+add R
+rot 22
+del
+del
+del
+rot 8
+swap G V
+del
+add A
+rot 60
+swap f p
+rot 18
+add u
+swap j d
+add F
+swap P i
+swap q D
+rot 4
+del
+swap b o
+del
+swap X 1
+del
+rot 5
+add 8
+swap 0 s
+del
+swap K i
+del
+del
+swap s 1
+swap 4 4
+add 4
+add k
+del
+add c
+rot 9
+swap i r
+add J
+add 4
+add A
+rot 18
+add 7
+rot 9
+rot 22
+rot 46
+add G
+swap O H
+rot 21
+del
+swap j q
+del
+swap W I
+add S
+add E
+add F
+swap M k
+swap r T
+del
+add n
+rot 9
+rot 3
+add F
+swap G 3
+swap P b
+add 6
+del
+add n
+rot 32
+swap A 5
+add Z
+del
+add a
+rot 47
+swap u h
+add v
+add A
+del
+rot 47
+rot 43
+swap Z g
+rot 39
+del
+del
+del
+del
+rot 29
+add W
+swap a 5
+del
+add b
+add j
+add v
+rot 44
+del
+swap v p
+add G
+add 6
+rot 21
+swap R 0
+add 5
+del
+add M
+swap 6 z
+rot 27
+rot 9
+add y
+add A
+swap 9 O
+swap 3 Q
+add n
+add f
+add P
+swap U a
+del
+add e
+rot 29
+del
+swap 2 H
+del
+swap 4 1
+swap q a
+add X
+add f
+swap d f
+swap o r
+del
+add 5
+rot 10
+del
+rot 10
+del
+add m
+add E
+add E
+swap O 8
+add 1
+swap q E
+add W
+rot 57
+del
+swap B 1
+add O
+add S
+del
+add u
+add p
+add f
+swap s Z
+swap V 1
+swap W k
+rot 57
+del
+rot 51
+swap h g
+add Q
+rot 17
+swap Y q
+del
+del
+add U
+swap p Y
+add 9
+add 7
+rot 12
+add b
+del
+del
+swap T N
+swap S 9
+del
+rot 20
+rot 57
+rot 31
+add p
+rot 10
+add H
+rot 11
+add U
+rot 30
+del
+del
+add E
+swap p z
+rot 3
+add S
+del
+swap 9 e
+add 5
+rot 46
+add L
+rot 46
+swap g x
+rot 58
+del
+swap k S
+add J
+rot 8
+add t
+rot 41
+add c
+swap r b
+swap d g
+rot 8
+add i
+swap 1 M
+add 9
+swap Q n
+add j
+swap G s
+add o
+add 3
+swap k l
+rot 46
+swap z f
+rot 52
+add f
+del
+add Z
+add l
+add d
+add h
+swap D E
+del
+del
+add 0
+add Z
+del
+add M
+rot 59
+rot 48
+del
+del
+rot 27
+del
+add O
+swap x 0
+rot 33
+swap D u
+swap G x
+swap q 0
+add 4
+rot 21
+add E
+del
+del
+add b
+rot 26
+del
+add a
+add r
+add p
+del
+del
+add r
+add D
+swap S k
+del
+add c
+del
+del
+del
+add E
+add q
+del
+rot 14
+add F
+add J
+del
+add 0
+rot 21
+add e
+swap f 6
+add j
+rot 12
+rot 52
+swap W C
+add z
+add r
+swap h K
+rot 9
+add B
+rot 22
+swap n F
+add 3
+swap N E
+rot 13
+rot 5
+del
+rot 20
+del
+add H
+swap 3 L
+swap r i
+swap Y L
+add s
+rot 61
+del
+del
+del
+add x
+add S
+add y
+add t
+del
+rot 47
+add Z
+rot 28
+add U
+swap q X
+swap D 5
+add F
+rot 24
+swap 8 H
+swap p k
+swap s r
+rot 45
+rot 35
+rot 2
+rot 14
+rot 29
+swap m K
+del
+add r
+add 8
+del
+add 3
+rot 53
+rot 26
+add P
+del
+del
+swap 1 B
+del
+add C
+add f
+add p
+del
+del
+del
+del
+del
+swap J l
+add d
+rot 46
+add Z
+add i
+swap Z y
+rot 43
+del
+rot 53
+del
+add X
+del
+swap v 7
+swap m 4
+swap i f
+swap 9 N
+add H
+add W
+add i
+del
+add p
+add I
+rot 19
+rot 24
+del
+add U
+add A
+add M
+del
+add Z
+swap N p
+swap b F
+del
+swap n 9
+add 0
+add S
+add 1
+rot 61
+rot 17
+swap M L
+add X
+add X
+del
+del
+add c
+rot 41
+add Z
+swap y U
+swap 6 J
+add b
+add m
+add L
+add g
+add v
+swap R L
+rot 7
+swap 4 N
+add S
+add Y
+add Z
+add S
+swap 7 G
+del
+rot 43
+add I
+add e
+rot 30
+del
+del
+add A
+del
+add G
+swap 1 J
+rot 23
+del
+rot 1
+add S
+add b
+rot 29
+rot 59
+add 8
+rot 32
+swap Q f
+del
+add X
+add m
+del
+del
+del
+swap E d
+rot 10
+swap a a
+del
+add Q
+add l
+rot 10
+rot 40
+swap p H
+del
+add 6
+add r
+add M
+add 5
+add E
+add W
+add K
+add 7
+del
+add k
+del
+rot 33
+swap L 1
+del
+add 6
+del
+add z
+rot 11
+add L
+rot 33
+del
+del
+add D
+rot 11
+del
+add 0
+add H
+add T
+swap X a
+add N
+rot 36
+add d
+del
+add m
+add V
+del
+add O
+del
+add O
+rot 44
+add K
+del
+add x
+add R
+rot 10
+swap i 2
+del
+del
+swap a G
+del
+rot 59
+del
+del
+del
+swap f X
+del
+rot 53
+swap b U
+add R
+add D
+del
+add y
+add a
+add f
+add C
+rot 10
+rot 52
+add K
+add i
+rot 40
+add L
+rot 28
+rot 25
+rot 35
+swap F 5
+rot 41
+add H
+add G
+add 4
+add v
+add R
+rot 47
+add A
+rot 22
+add 9
+del
+swap u j
+add X
+swap g U
+add r
+add L
+add T
+del
+add x
+add 3
+swap w D
+rot 16
+rot 42
+swap 2 9
+add J
+add u
+add k
+add q
+add G
+add 6
+rot 11
+rot 23
+swap c j
+rot 52
+swap T M
+add 5
+rot 61
+swap D Y
+rot 28
+add x
+rot 15
+swap f X
+swap Z 9
+swap R S
+swap P l
+del
+add 6
+rot 4
+add E
+del
+add 5
+add 2
+rot 8
+add I
+rot 26
+add n
+add B
+add w
+add M
+rot 61
+rot 43
+del
+swap u J
+swap c T
+add 4
+swap q f
+rot 13
+add S
+add P
+add 0
+add I
+add L
+swap y h
+add b
+del
+swap 2 e
+rot 34
+swap g H
+add O
+del
+del
+add Q
+add C
+add y
+rot 40
+del
+del
+del
+add X
+rot 7
+add h
+rot 52
+add 3
+swap d T
+add 6
+add u
+add 4
+add g
+rot 50
+add 6
+del
+swap a q
+add k
+rot 1
+add L
+rot 30
+add 5
+rot 57
+del
+swap k U
+del
+add D
+add F
+add B
+rot 44
+add N
+swap N c
+del
+del
+add H
+add M
+add 8
+del
+rot 57
+del
+add r
+add G
+del
+swap K v
+add h
+add x
+swap v g
+swap 1 S
+rot 45
+rot 61
+del
+rot 9
+del
+add z
+del
+rot 38
+rot 50
+add x
+del
+rot 40
+swap g W
+del
+add C
+add K
+swap Z N
+add T
+add f
+add L
+add Y
+rot 46
+rot 56
+del
+swap y I
+rot 16
+del
+swap z M
+add V
+swap O 7
+add 4
+del
+del
+add U
+rot 23
+add 1
+swap 3 6
+swap Y 4
+rot 50
+del
+rot 57
+rot 55
+rot 58
+swap 3 C
+rot 57
+del
+add b
+del
+add o
+del
+swap u E
+add I
+add W
+rot 23
+rot 58
+swap V r
+rot 13
+add t
+del
+rot 21
+rot 19
+add O
+add 5
+rot 36
+rot 17
+del
+swap v F
+add n
+add m
+add f
+add z
+add w
+swap u S
+del
+rot 42
+del
+rot 46
+rot 37
+swap r X
+rot 52
+swap f z
+del
+rot 60
+del
+add j
+swap J G
+rot 37
+add U
+del
+swap Z S
+del
+rot 19
+rot 35
+del
+del
+rot 24
+rot 56
+del
+add u
+add G
+add Y
+swap W d
+rot 16
+del
+rot 34
+add o
+swap d G
+add P
+swap 4 w
+add Z
+del
+add b
+add X
+add W
+rot 14
+rot 60
+add A
+add J
+rot 20
+swap u m
+swap G 2
+add 0
+del
+add a
+rot 22
+add e
+add 0
+add F
+add S
+add S
+swap r D
+swap E m
+del
+swap N 2
+add 6
+swap d g
+add x
+del
+swap W 7
+add H
+swap V Q
+swap C i
+add h
+rot 52
+rot 58
+rot 8
+swap b s
+del
+add z
+del
+swap p C
+add 6
+del
+del
+del
+rot 9
+swap L N
+swap C m
+add t
+rot 21
+swap A K
+add m
+del
+add Z
+rot 16
+swap e D
+del
+rot 17
+rot 34
+del
+add Q
+add Z
+rot 6
+swap e G
+swap 2 R
+add t
+add X
+add 9
+swap p D
+rot 10
+add R
+add h
+del
+swap 4 z
+rot 3
+rot 12
+rot 43
+rot 41
+rot 52
+swap O i
+add Z
+add C
+add o
+del
+swap V e
+del
+del
+del
+add A
+rot 35
+rot 44
+rot 22
+add C
+rot 17
+rot 40
+add H
+add K
+add n
+add Y
+swap r v
+rot 37
+swap u v
+swap O 1
+del
+del
+rot 10
+rot 52
+swap 6 j
+rot 53
+add D
+add Z
+add f
+del
+add 1
+rot 41
+del
+del
+add z
+add 1
+rot 61
+add p
+add V
+add l
+del
+add j
+del
+add B
+add f
+add Q
+del
+rot 36
+swap K 2
+rot 27
+add A
+swap Q r
+add R
+add g
+rot 47
+del
+del
+swap I z
+swap D Y
+del
+rot 24
+add e
+add S
+add u
+swap c d
+del
+add p
+swap f c
+rot 3
+add g
+swap P J
+del
+add B
+rot 58
+add 8
+add Q
+del
+swap q e
+add T
+add B
+add j
+add L
+rot 16
+swap 9 e
+add k
+swap a z
+add Z
+add g
+del
+del
+del
+add x
+add i
+add T
+add U
+add i
+add 0
+del
+add S
+add v
+del
+add N
+rot 20
+swap 6 f
+add 4
+swap v U
+swap f a
+rot 34
+add N
+swap U D
+add P
+rot 25
+add V
+swap 3 H
+swap I d
+rot 5
+add i
+add v
+swap 5 v
+del
+rot 54
+rot 19
+rot 37
+del
+add R
+add P
+swap P j
+del
+del
+add Y
+swap k t
+add G
+del
+add a
+add P
+rot 45
+swap 0 z
+add v
+add Q
+rot 8
+swap F 4
+add n
+del
+swap U J
+add N
+del
+add R
+swap P A
+rot 47
+del
+del
+del
+add c
+swap i u
+del
+del
+add F
+add z
+add A
+add p
+add 3
+add w
+add H
+del
+add V
+add i
+swap M R
+rot 56
+swap x Y
+add x
+add O
+swap z P
+add m
+add K
+rot 30
+swap X c
+add K
+del
+del
+swap O g
+add W
+swap W K
+swap G c
+rot 30
+add 1
+rot 25
+del
+swap p M
+add w
+swap A O
+add 0
+swap e Q
+add G
+add o
+add A
+rot 60
+del
+rot 19
+swap h V
+del
+del
+rot 1
+add u
+add g
+swap i e
+add r
+del
+add v
+add a
+add R
+add U
+del
+add d
+del
+add G
+swap 6 5
+swap i O
+rot 15
+rot 1
+rot 29
+del
+add c
+del
+add H
+del
+rot 4
+add X
+swap X v
+swap u u
+add H
+add N
+swap H I
+swap q S
+del
+del
+rot 32
+rot 37
+rot 10
+rot 56
+add l
+del
+add W
+rot 50
+del
+add a
+add z
+add G
+rot 11
+swap u p
+add Q
+rot 10
+rot 61
+del
+swap U Y
+add U
+add 9
+del
+rot 37
+rot 55
+add A
+swap 8 h
+add o
+add x
+add g
+swap K V
+add 8
+swap v W
+add 7
+add y
+swap 7 d
+rot 42
+add 0
+del
+swap n n
+add P
+del
+add R
+add R
+del
+rot 44
+swap W 8
+add O
+add m
+rot 38
+add D
+add o
+del
+add 7
+swap 9 q
+add z
+del
+rot 7
+swap c g
+del
+del
+swap B L
+add 7
+add A
+add b
+swap i M
+add v
+swap 0 E
+add g
+add A
+swap 0 R
+rot 44
+del
+del
+del
+del
+rot 3
+del
+add Q
+add z
+rot 36
+add a
+del
+rot 26
+rot 26
+swap 2 W
+rot 21
+del
+swap L f
+del
+rot 3
+del
+swap 2 E
+rot 20
+del
+swap 2 f
+rot 30
+del
+swap 2 c
+rot 50
+rot 55
+del
+del
+add y
+del
+add 9
+add F
+rot 3
+rot 16
+add G
+rot 40
+add Z
+add m
+add A
+del
+del
+add R
+rot 9
+swap U 9
+add t
+rot 26
+add m
+add o
+del
+del
+swap r L
+swap 7 Q
+add C
+add i
+swap Q i
+rot 58
+add C
+swap M M
+del
+add B
+rot 20
+add R
+add V
+add v
+add o
+add e
+rot 39
+add P
+add G
+add x
+add Q
+del
+del
+rot 7
+del
+rot 12
+add N
+add P
+del
+add 3
+add 7
+swap d P
+add 6
+rot 7
+add g
+del
+add c
+add G
+add 9
+rot 3
+add 5
+add l
+swap C o
+del
+del
+del
+add C
+add d
+del
+del
+del
+add E
+rot 14
+add D
+swap I 4
+add b
+add G
+add 7
+add 6
+add p
+add 5
+add z
+swap l 0
+add F
+swap v a
+swap O m
+del
+add r
+add S
+del
+del
+add i
+rot 30
+add t
+add b
+add L
+swap p y
+add 5
+swap k s
+swap n P
+add n
+del
+add W
+add Y
+del
+rot 31
+swap g p
+rot 59
+swap v Y
+swap 5 g
+add p
+swap J Q
+del
+add W
+del
+del
+del
+add B
+del
+add r
+add c
+rot 31
+del
+add j
+add W
+del
+del
+add U
+del
+swap N Z
+add J
+rot 45
+rot 5
+add c
+add U
+del
+del
+rot 40
+add v
+rot 1
+add Y
+del
+rot 43
+add r
+del
+swap 5 2
+rot 33
+add u
+del
+del
+del
+add b
+add p
+add y
+del
+add 0
+swap j k
+swap B L
+rot 24
+rot 19
+add P
+swap G O
+add L
+del
+del
+swap a N
+del
+swap A f
+swap m j
+add 7
+add b
+add L
+add Z
+del
+add 8
+rot 6
+add 4
+add y
+swap j 2
+add c
+rot 44
+add h
+del
+add N
+rot 27
+add t
+add h
+add 2
+add X
+add n
+add d
+add h
+add d
+del
+swap c D
+add l
+rot 2
+swap t C
+rot 29
+rot 18
+rot 10
+rot 18
+swap y G
+rot 25
+add 9
+add 3
+add u
+add C
+add F
+del
+add m
+del
+swap 9 I
+del
+add D
+del
+add 6
+del
+rot 35
+add K
+del
+add r
+add F
+swap G w
+del
+add b
+del
+swap 5 J
+rot 49
+del
+add 9
+del
+rot 12
+swap D 3
+add d
+swap u x
+rot 5
+add p
+rot 36
+add S
+add L
+del
+swap R X
+del
+del
+del
+add Z
+rot 21
+add M
+add 4
+swap t i
+del
+rot 18
+del
+swap 0 j
+add F
+add R
+add e
+rot 10
+swap 2 D
+swap 5 k
+rot 46
+add l
+swap G 9
+add j
+rot 52
+add I
+rot 26
+swap X 6
+rot 12
+add I
+rot 36
+del
+add p
+rot 53
+rot 48
+del
+add f
+add H
+rot 30
+add n
+rot 22
+rot 28
+swap v 7
+del
+swap 8 l
+del
+add j
+del
+add y
+add p
+add r
+del
+del
+swap Q O
+swap t k
+add i
+add 6
+rot 52
+rot 31
+del
+add p
+add R
+del
+rot 7
+del
+swap P y
+rot 38
+rot 21
+swap u e
+add 2
+add t
+swap B z
+add 2
+add 6
+add x
+swap Z u
+del
+add Q
+add d
+del
+swap 1 u
+rot 10
+add e
+swap l b
+del
+rot 47
+add w
+add K
+add l
+rot 33
+del
+add z
+add u
+swap l F
+del
+rot 5
+del
+del
+add d
+rot 46
+add M
+add o
+del
+add J
+swap H i
+swap I b
+rot 47
+add x
+del
+add y
+add B
+rot 49
+swap I p
+del
+swap V f
+add t
+swap 4 X
+rot 11
+add u
+add I
+rot 15
+add M
+rot 2
+rot 53
+add 3
+rot 5
+swap a q
+add 4
+swap R X
+add J
+del
+add Z
+rot 56
+rot 41
+swap Z e
+del
+add A
+add 5
+rot 46
+del
+add d
+add x
+add h
+add 9
+swap u 2
+swap W j
+rot 48
+del
+rot 10
+add C
+rot 54
+del
+add N
+add l
+swap Y 6
+add H
+swap Y 7
+swap s 6
+rot 39
+swap r 3
+swap U 3
+del
+add U
+swap F F
+swap g 0
+add O
+add E
+rot 21
+add q
+rot 4
+rot 35
+add 5
+add p
+swap U I
+swap d y
+rot 43
+add r
+del
+add E
+add e
+swap W n
+del
+del
+swap Q O
+add 7
+rot 36
+add F
+rot 24
+swap d B
+rot 6
+add 9
+add M
+rot 19
+add 1
+add Z
+rot 9
+swap x f
+add i
+add v
+del
+add C
+swap Z x
+add y
+add G
+swap V 2
+rot 60
+add k
+add V
+add P
+del
+del
+swap g B
+add w
+add A
+del
+del
+del
+add u
+add e
+rot 47
+add M
+add 6
+add w
+swap 8 I
+rot 8
+swap B R
+swap h j
+swap J Y
+rot 58
+add V
+rot 20
+rot 33
+swap Q N
+rot 23
+add t
+swap u w
+add o
+rot 15
+add f
+rot 16
+add t
+add a
+swap 6 l
+rot 33
+del
+rot 41
+rot 40
+del
+add Y
+del
+add z
+add U
+rot 36
+rot 39
+swap e 4
+del
+rot 28
+add o
+add F
+del
+add i
+rot 48
+add 8
+rot 23
+add 9
+swap l W
+del
+add I
+add C
+swap Z F
+add W
+add p
+swap d 3
+del
+rot 47
+swap d t
+rot 23
+del
+add k
+add U
+add 5
+swap A j
+swap 1 d
+del
+add m
+del
+del
+swap 1 8
+swap P P
+add Z
+add t
+swap n y
+add o
+rot 37
+rot 29
+rot 35
+add g
+swap 8 m
+add U
+del
+add K
+rot 53
+add B
+swap T j
+add w
+swap d E
+swap u 7
+del
+swap C X
+add b
+add F
+add B
+add 7
+del
+rot 47
+swap 9 W
+swap f 4
+swap G p
+del
+add 3
+swap b J
+rot 11
+add 1
+add 4
+swap i p
+add g
+rot 35
+swap B 2
+rot 51
+swap E l
+add X
+swap z x
+add t
+add 3
+del
+add n
+add L
+add P
+swap D M
+del
+del
+swap q u
+swap 5 2
+rot 32
+del
+add H
+add U
+add J
+swap m 3
+add K
+rot 21
+del
+swap j 5
+add Z
+add l
+rot 1
+add m
+del
+swap v y
+swap L 0
+add G
+rot 3
+add 9
+swap R M
+del
+add 4
+add k
+del
+swap U X
+add 2
+swap U m
+swap Y l
+add L
+add 2
+del
+del
+add f
+add h
+rot 47
+del
+add H
+add h
+swap D c
+rot 9
+rot 8
+add 4
+swap T M
+add 0
+add F
+add Y
+add V
+del
+add U
+add g
+rot 54
+add H
+add M
+del
+add S
+rot 48
+add O
+swap Z 7
+rot 56
+add z
+swap N r
+add P
+add Q
+add p
+rot 11
+del
+add 5
+swap Q o
+del
+rot 3
+add t
+del
+rot 37
+del
+add b
+del
+rot 31
+swap x E
+rot 56
+del
+del
+del
+rot 31
+add Q
+swap X A
+del
+add A
+rot 43
+del
+swap C h
+add 3
+add c
+rot 46
+del
+del
+swap z g
+del
+del
+add H
+rot 3
+add X
+swap l J
+add l
+rot 3
+rot 54
+add 3
+add Z
+rot 11
+add 8
+add f
+add k
+rot 54
+del
+swap m Z
+add H
+rot 1
+del
+swap H M
+del
+add f
+add K
+add K
+add q
+rot 38
+rot 61
+del
+swap 3 w
+del
+add a
+add C
+add Q
+rot 50
+add E
+add C
+rot 60
+swap s G
+del
+add v
+rot 10
+add H
+swap J 8
+add f
+add S
+rot 15
+add u
+rot 22
+swap p V
+rot 40
+del
+add l
+del
+add V
+del
+swap p n
+rot 38
+add u
+rot 27
+add r
+swap 8 e
+swap F r
+add 3
+swap J A
+del
+del
+rot 44
+add i
+swap V J
+swap L A
+swap O F
+rot 43
+del
+del
+add 3
+swap I N
+rot 50
+rot 50
+rot 22
+swap u F
+add O
+swap A G
+rot 61
+add i
+del
+swap 4 p
+del
+del
+rot 3
+add H
+swap C R
+add O
+add t
+add n
+rot 26
+del
+swap c 0
+add p
+add c
+rot 51
+rot 14
+rot 46
+swap u 6
+rot 5
+add Q
+rot 43
+del
+rot 41
+add j
+add h
+swap 7 x
+swap 5 D
+rot 37
+add U
+add t
+add O
+add F
+swap 9 S
+del
+swap F r
+rot 13
+add E
+rot 34
+add L
+del
+del
+swap j E
+del
+rot 39
+add A
+del
+add r
+del
+add F
+swap s s
+swap C M
+rot 3
+swap 2 z
+swap S l
+add L
+rot 27
+swap x B
+rot 4
+del
+add a
+del
+add Q
+del
+add 4
+rot 4
+add b
+add Q
+rot 59
+swap Y b
+rot 44
+add m
+rot 8
+rot 34
+add P
+del
+swap t a
+del
+add 6
+add W
+del
+swap B n
+add V
+add p
+swap V W
+rot 17
+del
+rot 1
+del
+del
+add n
+swap e 1
+del
+rot 34
+del
+add 6
+add w
+del
+swap 2 v
+add E
+del
+rot 9
+add U
+add I
+add 7
+add 8
+swap 7 u
+del
+add n
+add A
+rot 48
+add v
+add c
+add H
+rot 40
+add h
+swap z R
+rot 59
+swap S W
+add x
+add m
+rot 27
+swap i B
+del
+swap t z
+swap a 9
+add K
+rot 51
+add k
+swap I x
+rot 54
+swap S e
+swap W 2
+add 5
+add 3
+del
+add 7
+add 6
+add b
+rot 29
+swap h O
+swap C g
+del
+del
+add R
+del
+rot 43
+add n
+add q
+rot 29
+del
+add E
+rot 24
+rot 53
+swap u a
+swap h I
+add D
+swap E l
+swap f 0
+add X
+add K
+add u
+add r
+add 7
+del
+add h
+add 4
+rot 6
+add D
+del
+rot 28
+del
+add Y
+rot 5
+swap M a
+add L
+del
+del
+del
+rot 15
+add n
+add o
+swap u Q
+add 0
+del
+add M
+add y
+rot 16
+del
+del
+swap w e
+rot 32
+del
+add C
+add I
+del
+add k
+rot 1
+del
+add M
+add S
+add 2
+add Q
+add 6
+del
+rot 55
+swap O A
+swap U g
+swap o G
+swap s W
+swap F p
+swap 3 R
+swap K B
+rot 16
+del
+add I
+swap w Z
+swap w 8
+add u
+del
+swap D a
+add H
+add Q
+rot 12
+swap T w
+swap E m
+swap m 1
+add S
+rot 50
+add O
+swap w e
+add 5
+rot 57
+del
+swap Q a
+swap b M
+swap o 3
+add l
+add L
+add f
+add V
+add 5
+add m
+add 8
+del
+rot 28
+add I
+swap Y x
+del
+add G
+add z
+rot 40
+del
+swap 2 e
+add W
+del
+swap M 6
+add w
+swap 4 7
+add 9
+rot 20
+rot 16
+del
+rot 59
+swap a Y
+del
+add O
+add q
+add H
+swap y 8
+add v
+add Z
+add J
+del
+rot 57
+rot 32
+add f
+add r
+del
+rot 11
+add x
+add m
+add J
+del
+rot 26
+rot 59
+del
+add Q
+add L
+del
+add p
+del
+del
+rot 8
+add m
+rot 26
+add v
+rot 29
+del
+swap 5 f
+add U
+rot 46
+del
+add b
+del
+swap q K
+del
+del
+del
+add n
+swap 5 J
+swap t 7
+swap a 3
+rot 3
+swap I m
+add 5
+add 0
+add 5
+add 3
+del
+swap s O
+swap n Y
+add T
+del
+swap x u
+swap 0 k
+del
+del
+swap X r
+del
+swap T K
+add K
+swap Q B
+del
+add Z
+swap B g
+rot 39
+del
+rot 13
+add M
+del
+swap C 9
+add z
+rot 28
+add 7
+add z
+rot 24
+swap 1 E
+del
+add 3
+swap H M
+swap Y y
+swap j X
+rot 29
+add 7
+add i
+del
+rot 4
+del
+del
+add w
+add c
+rot 5
+add 1
+rot 28
+swap w 2
+swap u D
+swap 9 9
+add R
+add s
+rot 37
+rot 59
+swap L q
+del
+del
+add I
+del
+rot 43
+add 0
+rot 14
+add Q
+rot 49
+del
+add F
+add H
+rot 37
+swap V u
+rot 46
+swap j W
+add 6
+add 8
+swap d h
+rot 23
+rot 54
+rot 40
+add 4
+add 4
+add t
+add e
+add s
+del
+rot 5
+swap V S
+add N
+add W
+add X
+add 6
+add e
+rot 18
+add x
+del
+del
+del
+del
+add E
+del
+rot 5
+del
+add k
+rot 18
+rot 9
+add L
+add T
+add 3
+rot 2
+swap Q s
+rot 6
+add k
+rot 48
+swap c 5
+rot 10
+swap a G
+swap P q
+add N
+add A
+del
+swap K R
+add l
+swap 6 l
+swap a W
+swap b 5
+add g
+rot 51
+rot 47
+del
+add R
+add y
+rot 36
+rot 61
+rot 53
+rot 51
+add Y
+add 1
+rot 16
+del
+add w
+swap d v
+del
+add S
+del
+rot 36
+del
+add d
+add A
+add E
+add T
+add l
+rot 11
+add e
+swap e T
+rot 52
+del
+add T
+del
+add r
+rot 3
+add 0
+rot 50
+del
+swap 8 W
+add e
+swap 6 e
+swap l f
+swap c j
+del
+del
+add b
+add I
+swap P c
+add j
+del
+add S
+rot 14
+del
+swap t g
+rot 56
+add 4
+del
+swap M x
+add 7
+add q
+add U
+rot 56
+rot 50
+add 2
+add 8
+rot 15
+add K
+add M
+swap 3 Z
+add M
+rot 13
+add p
+add m
+del
+add K
+rot 34
+del
+add B
+rot 29
+swap p 6
+add n
+swap 8 v
+swap i X
+rot 27
+del
+swap n 4
+swap X J
+add r
+del
+add z
+add 1
+add p
+add k
+del
+add I
+del
+swap V X
+del
+add K
+swap V A
+rot 41
+add e
+add M
+rot 60
+del
+del
+del
+del
+add q
+rot 56
+add I
+swap B p
+del
+rot 12
+swap Z r
+swap p s
+del
+add g
+add 1
+swap R d
+del
+add L
+add p
+del
+del
+del
+del
+add B
+add V
+swap 2 D
+add p
+add Z
+swap s g
+rot 44
+del
+add d
+rot 52
+add x
+rot 19
+swap 3 o
+swap k p
+del
+add 7
+del
+swap M 2
+add w
+add G
+swap z L
+del
+swap f W
+del
+del
+add a
+add F
+add S
+add T
+rot 16
+swap O o
+rot 56
+swap 9 5
+add w
+swap c m
+swap t W
+add m
+del
+swap 4 d
+add Q
+swap L y
+add w
+add J
+add c
+add H
+add c
+swap t 1
+del
+rot 40
+add v
+del
+rot 4
+add W
+add b
+add U
+add w
+swap 4 L
+swap J H
+add 1
+add S
+add 6
+add G
+rot 31
+add W
+add 0
+swap u V
+del
+add S
+rot 13
+swap q l
+add C
+add D
+rot 50
+del
+add b
+add v
+del
+swap H 9
+rot 47
+rot 20
+add 9
+swap a 2
+del
+rot 3
+rot 27
+del
+rot 38
+rot 51
+add q
+swap z p
+rot 28
+del
+rot 25
+del
+add N
+add 3
+del
+swap l o
+add K
+swap J a
+add S
+rot 10
+del
+add E
+add A
+rot 9
+add 7
+del
+add S
+del
+swap D e
+add M
+del
+add d
+del
+add u
+del
+add 4
+add x
+add H
+add N
+add 0
+swap B q
+add D
+add p
+del
+add R
+rot 27
+del
+add 8
+rot 28
+add 9
+swap p d
+add Q
+del
+swap y D
+add w
+add b
+del
+add M
+add c
+add F
+rot 50
+add a
+add i
+add Q
+rot 53
+rot 44
+add 2
+add C
+swap T 5
+swap 6 a
+add Z
+swap v s
+add x
+del
+swap 8 N
+rot 48
+rot 9
+add 5
+add B
+add F
+swap v 2
+rot 39
+del
+add 4
+add M
+rot 36
+rot 34
+rot 59
+del
+add 7
+add U
+swap G V
+add y
+swap k u
+swap S N
+add v
+rot 49
+add o
+add C
+swap E q
+swap 9 c
+del
+swap W 8
+rot 54
+rot 44
+del
+swap N n
+del
+rot 31
+del
+del
+swap P l
+swap 3 u
+add x
+swap z 9
+add O
+add z
+rot 7
+rot 46
+add f
+rot 41
+swap 7 E
+del
+del
+swap Y E
+add S
+add D
+rot 29
+add m
+add 1
+rot 42
+add 5
+del
+swap P 6
+swap J w
+rot 54
+add O
+rot 58
+rot 20
+del
+add X
+del
+del
+swap R w
+add d
+del
+add q
+add z
+swap 1 O
+add M
+del
+add d
+swap 3 z
+swap w c
+rot 6
+rot 55
+rot 23
+swap 1 I
+add j
+add f
+del
+add c
+rot 2
+add o
+add o
+add O
+rot 2
+add V
+add X
+swap d t
+add k
+rot 43
+swap 4 F
+del
+swap 8 U
+del
+rot 36
+add E
+rot 27
+add H
+add 5
+rot 10
+del
+swap 8 0
+del
+add 9
+add R
+del
+swap C H
+add E
+add J
+rot 25
+rot 51
+del
+add u
+add C
+add I
+add m
+rot 23
+rot 15
+swap Z 4
+rot 32
+add H
+rot 55
+rot 5
+rot 30
+swap 0 5
+swap 6 E
+rot 11
+rot 37
+rot 19
+del
+add K
+add b
+add x
+add p
+del
+del
+add P
+add m
+rot 25
+rot 21
+del
+del
+swap F 9
+add S
+del
+add N
+add 3
+add N
+add t
+del
+swap o Y
+add U
+add j
+add K
+rot 25
+rot 45
+add s
+add K
+del
+rot 24
+swap J v
+add T
+rot 22
+del
+add 9
+rot 3
+del
+swap c u
+rot 1
+del
+add R
+add y
+add g
+add M
+swap 2 B
+add n
+swap e n
+del
+swap 7 V
+rot 36
+del
+del
+add 7
+del
+swap N 0
+add 4
+rot 19
+del
+swap F N
+rot 15
+del
+del
+del
+del
+add J
+swap d g
+swap J Y
+swap z Q
+rot 44
+add k
+rot 5
+rot 60
+add k
+del
+add H
+del
+add h
+add a
+add 5
+add i
+rot 7
+add P
+swap o y
+add A
+add g
+del
+swap X F
+add f
+del
+rot 46
+add Z
+add 6
+swap D l
+rot 57
+add 8
+add B
+rot 13
+del
+swap u 7
+del
+rot 61
+swap E t
+add l
+del
+add m
+del
+swap R D
+add X
+rot 25
+rot 25
+add y
+add e
+add 5
+rot 51
+del
+add y
+rot 28
+add 2
+add o
+add G
+swap 6 x
+add e
+add z
+add T
+add b
+add 0
+swap k D
+add 3
+swap s 1
+add C
+add A
+add k
+rot 2
+rot 33
+del
+add N
+swap R a
+rot 2
+add B
+add 6
+del
+rot 32
+del
+swap m 8
+add L
+add X
+add X
+rot 17
+add Y
+rot 29
+swap P 4
+add 7
+swap 3 t
+add 1
+rot 61
+swap f 6
+add M
+add q
+rot 33
+del
+rot 17
+rot 52
+del
+add W
+rot 20
+del
+add 3
+rot 43
+add u
+add u
+add c
+add e
+rot 29
+add S
+del
+add 9
+rot 13
+add U
+add l
+rot 17
+del
+add a
+swap d U
+add 6
+swap 9 G
+add K
+add Q
+del
+del
+add I
+add A
+add W
+add V
+del
+rot 44
+swap i b
+add M
+swap p R
+add 3
+add v
+swap i 8
+add i
+rot 36
+add K
+add U
+swap 9 5
+swap z 3
+rot 53
+rot 27
+add a
+swap 9 E
+rot 22
+swap a W
+rot 4
+add A
+add 7
+swap c P
+rot 42
+rot 41
+del
+rot 56
+add c
+add X
+add U
+add b
+swap Q 4
+swap I G
+swap 3 Z
+swap D l
+rot 7
+del
+del
+add l
+rot 49
+add b
+add z
+rot 35
+rot 34
+add 9
+add G
+del
+rot 33
+add M
+rot 53
+rot 37
+del
+add X
+del
+del
+add B
+swap 6 H
+add 4
+add R
+del
+swap v V
+add T
+add C
+add u
+add J
+del
+add A
+del
+add t
+rot 46
+swap R J
+swap g j
+del
+rot 15
+add 1
+add C
+add 3
+add N
+swap Z F
+add g
+del
+del
+swap O z
+add e
+del
+del
+add H
+add 3
+add i
+rot 1
+add v
+add R
+swap 8 6
+del
+add X
+del
+add p
+add s
+del
+rot 45
+rot 42
+add r
+swap R V
+add S
+add n
+del
+add A
+del
+swap k s
+swap s J
+rot 54
+add u
+add D
+rot 13
+add y
+add F
+rot 4
+del
+add E
+add y
+add n
+del
+rot 44
+swap t O
+del
+rot 4
+add q
+add r
+add y
+swap y h
+del
+rot 51
+add X
+swap Z 7
+swap k 0
+add O
+rot 45
+del
+add e
+rot 53
+add N
+rot 4
+rot 45
+del
+rot 48
+add c
+add G
+swap T A
+del
+rot 50
+add U
+rot 22
+rot 12
+swap 7 D
+del
+del
+add 1
+del
+swap 1 P
+add Y
+swap v u
+rot 23
+rot 1
+add q
+add y
+add N
+swap 9 P
+add Y
+add M
+del
+add S
+add b
+add v
+del
+add 2
+add m
+swap p W
+del
+swap q n
+rot 2
+rot 5
+rot 45
+add R
+add V
+del
+rot 31
+swap q h
+del
+swap I z
+swap K h
+del
+rot 11
+rot 21
+del
+del
+rot 14
+del
+del
+rot 27
+del
+del
+add z
+add b
+rot 33
+add r
+rot 43
+rot 42
+swap T T
+swap l F
+swap 8 w
+add U
+add H
+del
+rot 28
+add M
+swap T l
+del
+del
+add N
+swap 2 H
+add l
+rot 12
+rot 51
+swap 3 g
+add B
+rot 23
+rot 16
+del
+del
+add V
+swap Q Y
+swap t L
+swap u G
+rot 20
+del
+add U
+add a
+swap v b
+del
+del
+add K
+rot 31
+del
+rot 18
+swap Q m
+rot 4
+rot 11
+add R
+rot 13
+add b
+add e
+del
+add o
+swap l d
+add V
+del
+swap q M
+swap i O
+add M
+swap x Q
+swap V j
+del
+rot 42
+rot 40
+swap D I
+rot 18
+del
+add v
+rot 39
+swap y 4
+add t
+del
+swap H z
+swap r y
+rot 54
+swap q u
+del
+rot 43
+swap d 1
+del
+add G
+add Z
+swap 3 H
+swap 7 o
+add r
+add J
+swap T e
+add L
+swap T L
+add r
+swap 9 G
+del
+swap a N
+swap B X
+add W
+add p
+rot 41
+rot 13
+add f
+add V
+del
+del
+rot 33
+add 8
+rot 49
+swap G p
+swap 2 2
+rot 61
+add C
+add P
+swap t Y
+del
+rot 38
+add 1
+del
+add 1
+swap 5 n
+add r
+add l
+add s
+add L
+swap Y V
+rot 58
+del
+swap v f
+add s
+del
+rot 3
+add K
+rot 22
+del
+add B
+del
+add b
+del
+add 6
+swap h R
+swap f C
+add V
+swap S E
+rot 18
+del
+add 3
+del
+swap n E
+swap z 4
+add V
+rot 4
+add X
+del
+add L
+del
+add U
+del
+rot 24
+del
+add v
+add j
+add Z
+swap Y 3
+add 0
+add g
+add y
+rot 24
+add B
+del
+add M
+swap G W
+swap C t
+rot 34
+add D
+swap k i
+add Q
+add j
+del
+add Z
+rot 50
+swap V D
+rot 41
+swap s I
+rot 30
+swap 3 m
+swap H v
+del
+swap 4 R
+add z
+del
+del
+del
+swap l U
+add N
+swap 4 u
+del
+del
+swap U 6
+del
+add N
+rot 37
+add W
+del
+rot 10
+add K
+del
+del
+add c
+add v
+add B
+add z
+rot 12
+rot 22
+swap t M
+del
+swap 7 g
+swap w b
+swap A X
+swap i B
+swap 9 I
+rot 22
+del
+add v
+rot 3
+add D
+del
+rot 60
+rot 9
+add g
+add C
+rot 26
+del
+add X
+rot 16
+del
+add c
+swap X M
+rot 20
+add W
+rot 29
+del
+add v
+rot 26
+add s
+swap Q 4
+rot 12
+del
+swap e J
+del
+rot 13
+rot 60
+add o
+del
+del
+rot 39
+add d
+add e
+swap r 0
+rot 19
+del
+add A
+rot 59
+del
+swap 1 P
+add u
+del
+rot 33
+swap G X
+add B
+swap g C
+rot 17
+add f
+swap j Y
+swap Z 2
+swap D Z
+swap f e
+del
+add 9
+rot 22
+add n
+add d
+add g
+rot 28
+add 0
+add C
+add a
+rot 29
+rot 29
+del
+rot 52
+add b
+del
+del
+del
+add u
+del
+add o
+add 8
+add k
+add w
+del
+add I
+add I
+add h
+add Q
+swap 3 A
+add w
+swap 4 1
+swap W o
+swap y D
+swap 6 W
+swap 7 p
+rot 34
+del
+add Q
+rot 30
+rot 29
+add S
+add i
+rot 25
+swap 9 c
+del
+del
+rot 5
+swap 8 2
+swap s C
+rot 24
+rot 36
+swap H P
+add u
+del
+add X
+add j
+add 1
+rot 6
+add o
+add D
+del
+swap d Y
+add D
+add H
+add m
+add 5
+swap 0 5
+del
+add x
+swap i a
+swap U b
+add h
+del
+add c
+add r
+rot 33
+add w
+add s
+add p
+swap Q H
+add s
+add O
+add P
+add u
+add d
+swap v u
+add U
+add O
+swap i D
+add B
+del
+del
+add O
+swap L P
+add d
+rot 32
+add B
+add r
+add c
+swap X g
+add T
+del
+rot 31
+del
+add 0
+add 9
+swap j J
+swap b 0
+rot 20
+swap N g
+rot 15
+add 1
+add G
+swap 9 b
+add c
+add c
+del
+add s
+del
+add y
+del
+add x
+add H
+add F
+add m
+swap 2 c
+add X
+del
+rot 8
+swap Q s
+del
+add B
+add o
+add I
+add 9
+swap B G
+add M
+swap C Y
+del
+add d
+rot 6
+add D
+del
+add x
+rot 25
+add B
+rot 37
+add 6
+add K
+rot 54
+del
+del
+add V
+rot 13
+del
+swap 7 M
+rot 19
+rot 7
+add o
+swap z z
+add D
+rot 37
+rot 54
+swap 0 m
+del
+del
+del
+swap p g
+add 5
+add L
+del
+add m
+add n
+add m
+add U
+rot 15
+add f
+swap G P
+rot 17
+del
+add o
+swap j 0
+add k
+rot 17
+add y
+add K
+add Y
+del
+rot 51
+swap K S
+del
+add 8
+add y
+add G
+del
+add d
+del
+rot 9
+del
+swap A t
+add a
+add r
+swap q b
+rot 60
+rot 49
+add h
+swap p 2
+add 7
+del
+del
+add y
+del
+del
+rot 47
+add K
+del
+rot 33
+swap N k
+add o
+add b
+swap q x
+del
+rot 26
+add o
+rot 41
+swap X 1
+add y
+swap S n
+rot 54
+swap k f
+add V
+rot 35
+swap N s
+swap P y
+add K
+add S
+del
+add o
+add U
+swap m I
+add 0
+del
+add U
+rot 2
+add 3
+rot 56
+add W
+add N
+rot 51
+del
+del
+del
+rot 59
+add J
+rot 3
+del
+del
+add P
+swap g 7
+rot 25
+rot 32
+add m
+rot 31
+rot 52
+del
+add K
+rot 57
+swap w 3
+del
+add s
+rot 14
+rot 20
+add H
+del
+add K
+add I
+add n
+swap q g
+rot 43
+del
+add a
+add H
+rot 29
+rot 10
+del
+rot 48
+swap Z C
+add R
+del
+add s
+del
+del
+swap L S
+swap v x
+add b
+swap J 0
+swap 6 u
+add i
+add I
+swap 7 n
+add 7
+add t
+del
+del
+add B
+swap R w
+swap 5 K
+rot 21
+rot 18
+add Z
+add T
+rot 58
+add N
+add V
+add f
+del
+rot 9
+rot 3
+del
+add w
+del
+swap J 9
+del
+del
+add 9
+add g
+add X
+rot 3
+add s
+add i
+del
+add k
+add t
+rot 25
+swap B t
+add Z
+swap 0 g
+add s
+add W
+del
+add b
+add I
+swap K 1
+del
+swap U P
+add r
+rot 52
+del
+del
+del
+add T
+del
+del
+swap l g
+add o
+swap N m
+del
+rot 35
+swap r X
+swap F Y
+rot 59
+add D
+rot 11
+rot 48
+del
+add r
+add M
+add c
+rot 55
+add K
+del
+add R
+add 5
+rot 18
+rot 1
+rot 54
+add Y
+add h
+swap R f
+add w
+add o
+swap 6 q
+swap s i
+swap o r
+swap j O
+del
+rot 20
+swap I b
+swap 2 I
+add x
+add P
+rot 41
+add z
+del
+del
+add U
+rot 53
+del
+rot 4
+swap 5 s
+rot 3
+add 5
+rot 1
+swap f F
+swap o f
+rot 46
+add 7
+add U
+del
+add m
+swap N g
+del
+add u
+rot 46
+rot 20
+del
+swap y K
+add 9
+add j
+add P
+rot 4
+add f
+add 2
+add j
+del
+add t
+add Q
+del
+add O
+del
+add o
+add O
+del
+swap X 6
+del
+swap j E
+add 1
+add C
+del
+add u
+add C
+swap D Q
+add 8
+add L
+del
+add J
+rot 29
+add k
+swap X q
+add 9
+add s
+del
+del
+rot 30
+add d
+del
+rot 17
+add E
+add m
+swap m 3
+rot 48
+rot 56
+del
+add 6
+swap R k
+add T
+rot 3
+swap 3 L
+del
+add G
+add U
+del
+rot 35
+add u
+add p
+add z
+del
+add j
+add 1
+add N
+del
+swap V Q
+swap 2 M
+del
+rot 15
+add M
+rot 5
+add k
+del
+add r
+rot 14
+swap S e
+swap 4 j
+swap 6 P
+del
+add M
+del
+add R
+swap B E
+add P
+add M
+add D
+swap x 8
+swap y c
+add e
+rot 42
+add I
+rot 41
+add E
+add f
+swap V M
+swap l V
+swap e z
+rot 47
+rot 47
+add u
+swap 7 x
+del
+add e
+rot 20
+del
+add f
+swap h v
+swap w b
+add n
+add 9
+add w
+swap p l
+add P
+add O
+del
+swap w H
+add u
+add u
+del
+del
+swap i u
+swap z K
+del
+rot 13
+add 8
+add g
+swap K 4
+del
+add 1
+add N
+rot 32
+rot 13
+del
+swap O m
+add m
+rot 45
+rot 16
+rot 46
+add z
+swap e J
+add U
+add 1
+swap v L
+swap r 1
+swap c N
+add A
+swap x D
+del
+add 4
+rot 32
+del
+add F
+add Z
+swap t F
+del
+swap L C
+add 5
+del
+swap N E
+add Q
+swap q f
+add O
+swap l 6
+add e
+add g
+swap y D
+add j
+add 2
+add Y
+add X
+add S
+del
+rot 14
+del
+add 8
+add U
+swap a X
+add 7
+rot 11
+add E
+add p
+del
+swap a P
+add v
+swap N B
+swap w d
+add H
+swap j b
+swap A T
+swap h w
+add U
+rot 14
+add 7
+add B
+swap s r
+add 3
+swap E u
+swap 2 2
+add 1
+swap y D
+del
+del
+swap m j
+add V
+del
+del
+add Z
+del
+add X
+del
+add C
+add O
+swap I A
+rot 50
+add q
+rot 33
+swap w i
+del
+del
+add q
+swap z Y
+add t
+swap X 3
+add 5
+del
+swap w D
+rot 51
+del
+add A
+add c
+add k
+swap t h
+del
+del
+rot 36
+add 2
+add p
+add I
+swap H m
+swap 0 h
+rot 26
+add C
+rot 37
+rot 14
+del
+add j
+add u
+del
+add c
+del
+swap 8 n
+del
+del
+add 2
+swap w I
+swap Z R
+swap h N
+rot 34
+del
+swap T T
+rot 29
+del
+add t
+del
+add G
+del
+add 4
+del
+rot 9
+del
+del
+add J
+add z
+swap x C
+rot 45
+add z
+del
+del
+swap L f
+add O
+del
+rot 2
+rot 19
+del
+add 5
+swap E o
+add C
+add Z
+del
+del
+del
+add 4
+rot 19
+swap q d
+add F
+add r
+add 0
+rot 53
+add e
+add Z
+add h
+del
+swap n D
+swap g O
+rot 17
+add x
+del
+add z
+del
+add g
+add 8
+rot 25
+del
+add v
+add A
+rot 13
+add t
+add 7
+swap Z j
+swap H 7
+add 3
+rot 27
+add O
+add P
+swap f v
+rot 43
+swap G c
+rot 16
+swap v j
+add M
+rot 47
+add j
+swap Z 2
+del
+swap o z
+add 1
+rot 11
+add J
+rot 5
+add X
+add L
+del
+swap 9 K
+swap R J
+add Z
+rot 15
+swap r j
+add j
+del
+rot 51
+add m
+del
+add d
+add 4
+del
+swap 0 R
+rot 18
+swap L J
+add J
+swap q I
+del
+add o
+swap g n
+del
+rot 42
+swap 1 R
+add K
+swap F z
+add l
+swap a I
+add P
+rot 60
+add d
+add z
+swap 3 V
+add V
+add o
+add a
+add j
+swap e D
+swap E r
+add a
+add 5
+add o
+rot 58
+swap J 7
+del
+add z
+add x
+swap 4 r
+del
+add u
+swap A c
+rot 49
+add 4
+add p
+swap g F
+add J
+del
+del
+add h
+add J
+del
+del
+swap 5 m
+add 8
+rot 57
+add w
+rot 45
+swap X y
+add 8
+rot 27
+add k
+add P
+swap W e
+add 6
+swap B f
+add H
+del
+add A
+del
+del
+add P
+add y
+add N
+del
+add X
+swap J j
+del
+add Q
+add D
+rot 45
+rot 39
+add v
+add C
+del
+rot 4
+add G
+swap c i
+add i
+swap m 8
+del
+rot 46
+del
+del
+del
+swap 4 f
+rot 3
+add E
+swap n y
+add 8
+rot 2
+rot 61
+add o
+add N
+rot 46
+add l
+add p
+add R
+add P
+add d
+del
+swap S p
+del
+add J
+add C
+add H
+add K
+del
+add p
+del
+swap y y
+add S
+rot 45
+add j
+del
+add X
+add c
+del
+add m
+add u
+add l
+add 6
+swap s z
+add j
+swap H o
+add U
+add q
+swap d Q
+rot 2
+add C
+rot 12
+del
+add A
+add K
+rot 23
+del
+swap n Z
+swap N v
+add S
+rot 18
+rot 47
+del
+add a
+rot 5
+add 1
+add V
+add E
+rot 46
+add m
+swap p R
+add u
+rot 29
+del
+add A
+add 5
+swap V T
+add Z
+add R
+add k
+add m
+swap k 2
+del
+swap I N
+swap 1 a
+add a
+del
+del
+swap M Y
+swap C K
+del
+rot 23
+del
+del
+add T
+add O
+del
+swap H Y
+add c
+add D
+add m
+rot 6
+rot 4
+add P
+rot 30
+del
+add d
+rot 12
+del
+rot 11
+rot 15
+swap j y
+rot 57
+swap 7 y
+add 9
+swap 4 w
+swap N I
+add T
+add C
+del
+del
+rot 57
+swap 2 d
+add o
+add P
+swap p e
+swap 7 r
+rot 26
+rot 48
+rot 55
+add k
+add G
+del
+del
+add X
+swap Y p
+add G
+del
+del
+del
+add l
+del
+rot 23
+add 6
+rot 46
+rot 26
+add E
+del
+add 4
+swap O l
+rot 3
+add Q
+swap J I
+add B
+add E
+rot 5
+del
+del
+add T
+add p
+del
+del
+rot 2
+swap K 2
+add J
+rot 24
+add y
+rot 30
+swap N 5
+del
+rot 47
+add J
+rot 37
+add A
+add 6
+add 6
+add B
+add M
+add u
+swap b u
+del
+add C
+swap U D
+add h
+add h
+swap 9 o
+swap D N
+swap S u
+add S
+add S
+add s
+del
+rot 37
+swap z L
+add Q
+del
+add I
+rot 19
+rot 35
+add f
+del
+add 6
+rot 58
+rot 41
+add b
+add I
+swap h e
+add e
+add F
+rot 10
+rot 53
+swap g Z
+add C
+swap M 9
+swap f y
+del
+rot 46
+add x
+swap 8 j
+rot 15
+rot 26
+del
+swap z l
+del
+del
+del
+rot 52
+del
+swap k h
+swap l 2
+add Z
+del
+add H
+add l
+del
+swap F g
+add M
+del
+add C
+swap 3 d
+swap y X
+del
+add f
+del
+swap U U
+del
+add R
+swap e Y
+add c
+del
+add x
+del
+rot 58
+del
+add v
+add 4
+del
+rot 4
+add n
+del
+del
+add U
+add w
+del
+swap O u
+add P
+add Y
+add D
+del
+swap y o
+del
+del
+del
+del
+add l
+add A
+add 8
+swap n e
+add z
+swap O f
+swap r m
+del
+rot 49
+add I
+rot 37
+add r
+add P
+del
+add Y
+add V
+swap L B
+del
+add l
+add P
+rot 18
+add 4
+del
+del
+add q
+swap K d
+add z
+del
+add K
+swap o u
+del
+add d
+add C
+swap d K
+swap j 4
+rot 25
+swap a z
+add f
+add E
+rot 3
+rot 38
+rot 55
+swap C c
+add M
+swap w e
+del
+add j
+del
+add I
+swap P N
+add v
+rot 21
+rot 36
+rot 2
+add z
+del
+add s
+swap b B
+del
+del
+rot 56
+del
+swap s V
+add 4
+add n
+del
+del
+add g
+add W
+add N
+add j
+add M
+swap B H
+rot 18
+add 2
+del
+add Y
+add y
+swap V 8
+add r
+swap r v
+del
+swap H K
+add j
+del
+add P
+add y
+add F
+swap x V
+add S
+add M
+swap 2 I
+swap d F
+del
+add W
+del
+rot 10
+add y
+add M
+rot 1
+add 0
+add K
+del
+rot 32
+del
+rot 9
+swap 2 d
+add S
+rot 56
